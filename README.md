@@ -26,4 +26,10 @@ Install this [.NET 6 Desktop](https://dotnet.microsoft.com/en-us/download/dotnet
 Install this [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 ## 7. all Imported skins are gray
 ![Image](https://i.imgur.com/h0VGsh2.png)  
-and for the love of god please learn how to use blender
+Please watch a blender tutorial before attempting anything fortnite related
+
+## 8. Why are there only 4 characters
+### Update fortnite 
+to update Fortnite, you can follow these steps:
+Navigate to the Fortnite tab: Once you're logged in, click on the Fortnite tab located at the top of the Epic Games Launcher. This will take you to the Fortnite section. Click on the "Update" button: If there is an available update for Fortnite, you will see an "Update" button next to the game's thumbnail or name. Click on that button to start the update process. Wait for the update to download and install: The Epic Games Launcher will start downloading the necessary files for the Fortnite update. The time it takes to download and install the update will depend on your internet connection speed and the size of the update. Make sure not to close the Epic Games Launcher during this process. Launch Fortnite: Once the update is successfully installed, you can launch Fortnite by clicking on the "Launch" button in the Epic Games Launcher. The game should now be updated to the latest version. Then it will fix the issue.
+
