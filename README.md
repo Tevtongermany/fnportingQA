@@ -26,4 +26,11 @@ Install this [.NET 6 Desktop](https://dotnet.microsoft.com/en-us/download/dotnet
 Install this [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe)  
 ## 7. all Imported skins are gray
 ![Image](https://i.imgur.com/h0VGsh2.png)  
-and for the love of god please learn how to use blender
+Please watch a blender tutorial before attempting anything fortnite related
+
+## 8. Why are there only 4 characters
+### Update fortnite 
+to update Fortnite, you can follow these steps:
+Open the epic games launcher, and it should automatically start updating, if not press on the Fortnite banner in the library or on the small banner under quick launch
+
+
