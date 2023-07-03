@@ -1,4 +1,4 @@
-![image](https://github.com/LiveWaffle/fnportingQA/assets/59411880/961bd28c-dfd1-4494-897d-1df5aeaeff81)# Fortnite Porting Question and Answers
+# Fortnite Porting Question and Answers
 
 If nothing helped, you can ask in the Fortnite porting discord server
 
