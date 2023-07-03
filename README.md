@@ -1,4 +1,4 @@
-# Fortnite Porting Question and Answers
+![image](https://github.com/LiveWaffle/fnportingQA/assets/59411880/961bd28c-dfd1-4494-897d-1df5aeaeff81)# Fortnite Porting Question and Answers
 
 If nothing helped, you can ask in the Fortnite porting discord server
 
@@ -31,5 +31,6 @@ Please watch a blender tutorial before attempting anything fortnite related
 ## 8. Why are there only 4 characters
 ### Update fortnite 
 to update Fortnite, you can follow these steps:
-Navigate to the Fortnite tab: Once you're logged in, click on the Fortnite tab located at the top of the Epic Games Launcher. This will take you to the Fortnite section. Click on the "Update" button: If there is an available update for Fortnite, you will see an "Update" button next to the game's thumbnail or name. Click on that button to start the update process. Wait for the update to download and install: The Epic Games Launcher will start downloading the necessary files for the Fortnite update. The time it takes to download and install the update will depend on your internet connection speed and the size of the update. Make sure not to close the Epic Games Launcher during this process. Launch Fortnite: Once the update is successfully installed, you can launch Fortnite by clicking on the "Launch" button in the Epic Games Launcher. The game should now be updated to the latest version. Then it will fix the issue.
+Open the epic games launcher, and it should automatically start updating, if not press on the Fortnite banner in the library or on the small banner under quick launch
+
 
