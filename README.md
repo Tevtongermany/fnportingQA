@@ -1,5 +1,5 @@
 # Fortnite Porting Question and Answers
-
+# This Q and A will be deleted due to the new wiki in the github page of Fortnite porting
 If nothing helped, you can ask in the Fortnite porting discord server
 
 [![Discord](https://discord.com/api/guilds/866821077769781249/widget.png?style=shield)](https://discord.gg/DZ5YFXdBA6)
